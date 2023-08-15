@@ -1,0 +1,103 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="farizalllf.muse.io" resolutions="1x" timestamp="1692114024439">
+  <folder name="css">
+    <file name="site_global.css" crc="4032403509"/>
+    <file name="master_a-master.css" crc="436873369" ref="catalog"/>
+    <file name="master_header.css" crc="3830873609" ref="contact:index"/>
+    <file name="catalog.css" crc="4170041820" ref="catalog"/>
+    <file name="contact.css" crc="3885197275" ref="contact"/>
+    <file name="index.css" crc="4043916243" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:catalog"/>
+    <file name="museutils.js" crc="163421577" ref="index:contact:catalog"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:catalog"/>
+    <file name="museconfig.js" crc="168988563" ref="index:contact:catalog"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:contact:catalog"/>
+    <file name="webpro.js" crc="3848665353" ref="index:catalog"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:catalog"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:catalog"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:catalog"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:contact:catalog"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:catalog"/>
+    <file name="require.js" crc="244322403" ref="index:contact:catalog"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="catalog"/>
+  </folder>
+  <folder name="images">
+    <file name="—pngtree—white poly background_4100825.jpg" crc="4293415512" seo="true" ref="index:contact:catalog"/>
+    <file name="d4945abc-3191-4c71-b36c-b6c66b7bf7c1-crop-u1952.jpg" crc="522385899" ref="index:contact"/>
+    <file name="u1951-5.png" crc="391223055" ref="index:contact"/>
+    <file name="u1562-8.png" crc="3954290204" ref="index"/>
+    <file name="wilson-black-1-1024x1024-crop-u1288.jpg" crc="193727951" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:catalog"/>
+    <file name="wilson-black-1-2-300x300.jpg" crc="4284152271" seo="true" ref="index"/>
+    <file name="d4945abc-3191-4c71-b36c-b6c66b7bf7c1.jpg" crc="4233599736" seo="true" ref="index"/>
+    <file name="wilson-brown-1-1-300x300.jpg" crc="3799599071" seo="true" ref="index:catalog"/>
+    <file name="wilson-black-1-1024x1024-crop-u1298.jpg" crc="4119544922" ref="index"/>
+    <file name="wilson-black-1-2-300x300-crop-u1408.jpg" crc="4280333612" ref="index"/>
+    <file name="d4945abc-3191-4c71-b36c-b6c66b7bf7c1-crop-u1510.jpg" crc="318682716" ref="index"/>
+    <file name="wilson-brown-1-1-300x300-crop-u1443.jpg" crc="252852588" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:catalog"/>
+    <file name="u2039-6.png" crc="3914159149" ref="index"/>
+    <file name="russell-white-1-300x300.jpg" crc="475269216" seo="true" ref="index"/>
+    <file name="brantley black.jpg" crc="3795758904" seo="true" ref="index"/>
+    <file name="garrick black-crop-u2073.jpg" crc="230098274" ref="index"/>
+    <file name="carlton black.jpg" crc="3794161917" seo="true" ref="index:catalog"/>
+    <file name="aaron black-crop-u2065.jpg" crc="359820074" ref="index"/>
+    <file name="evan-crop-u4342.jpg" crc="99536065" ref="index"/>
+    <file name="screenshot_1-crop-u4337.jpg" crc="3829985573" ref="index"/>
+    <file name="u4427-4.png" crc="3820136654" ref="index"/>
+    <file name="shopee.png" crc="22711812" seo="true" ref="contact"/>
+    <file name="tokopedia.png" crc="3847269609" seo="true" ref="contact"/>
+    <file name="whatsapp.png" crc="275125929" seo="true" ref="contact"/>
+    <file name="website.png" crc="78597041" seo="true" ref="contact"/>
+    <file name="d4945abc-3191-4c71-b36c-b6c66b7bf7c1-crop-u2186.jpg" crc="522385899" ref="catalog"/>
+    <file name="u2185-5.png" crc="391223055" ref="catalog"/>
+    <file name="u3899-4.png" crc="4876319" ref="catalog"/>
+    <file name="u3688-4.png" crc="4078086075" ref="catalog"/>
+    <file name="u3679-4.png" crc="4116212026" ref="catalog"/>
+    <file name="u3443-4.png" crc="4160938759" ref="catalog"/>
+    <file name="u3440-4.png" crc="365848203" ref="catalog"/>
+    <file name="screenshot_1-crop-u2546.jpg" crc="4176979481" ref="catalog"/>
+    <file name="u2660-14.png" crc="417817369" ref="catalog"/>
+    <file name="russell-white-1-300x300-crop-u2543.jpg" crc="48792706" ref="catalog"/>
+    <file name="u2666-17.png" crc="4046473007" ref="catalog"/>
+    <file name="russell-black-1-300x300-crop-u2551.jpg" crc="3893044329" ref="catalog"/>
+    <file name="u2669-17.png" crc="413878998" ref="catalog"/>
+    <file name="u3431-4.png" crc="4283174686" ref="catalog"/>
+    <file name="u3071-21.png" crc="4232169859" ref="catalog"/>
+    <file name="wilson-black-1-3-u3083-a-fr.jpg" crc="3780406200" ref="catalog"/>
+    <file name="wilson-black-1-1024x1024-u3082-a-fr.jpg" crc="87807235" ref="catalog"/>
+    <file name="wilson-brown-1-1-300x300-u3084-a-fr.jpg" crc="228047212" ref="catalog"/>
+    <file name="wilson-black-1-3-u3080-fr.jpg" crc="221790770" ref="catalog"/>
+    <file name="wilson-black-1-1024x1024-u3078-fr.jpg" crc="4053686195" ref="catalog"/>
+    <file name="carlton-crop-u3243.jpg" crc="269215263" ref="catalog"/>
+    <file name="carlton brown.jpg" crc="206274183" seo="true" ref="catalog"/>
+    <file name="carlton-crop-u3253.jpg" crc="351349235" ref="catalog"/>
+    <file name="carlton black60x54.jpg" crc="526450380" seo="true" ref="catalog"/>
+    <file name="carlton brown60x47.jpg" crc="3779322618" seo="true" ref="catalog"/>
+    <file name="brantley-crop-u3585.jpg" crc="131724869" ref="catalog"/>
+    <file name="brantley black-crop-u3582.jpg" crc="186274347" ref="catalog"/>
+    <file name="brantley white-crop-u3590.jpg" crc="3945956609" ref="catalog"/>
+    <file name="garrick-crop-u3701.jpg" crc="436233177" ref="catalog"/>
+    <file name="garrick black-crop-u3812.jpg" crc="418053042" ref="catalog"/>
+    <file name="garrick brown.jpg" crc="226607804" seo="true" ref="catalog"/>
+    <file name="garrick-crop-u3711.jpg" crc="43025203" ref="catalog"/>
+    <file name="garrick black-crop-u3821.jpg" crc="170900564" ref="catalog"/>
+    <file name="garrick brown60x47.jpg" crc="4266310009" seo="true" ref="catalog"/>
+    <file name="u4097-4.png" crc="3800458521" ref="catalog"/>
+    <file name="whatsapp2.png" crc="398300396" seo="true" ref="catalog"/>
+    <file name="instagram.png" crc="3786304720" seo="true" ref="catalog"/>
+    <file name="u4106-4.png" crc="372508292" ref="catalog"/>
+    <file name="aaron-crop-u3916.jpg" crc="4193653770" ref="catalog"/>
+    <file name="aaron black-crop-u4025.jpg" crc="359820074" ref="catalog"/>
+    <file name="aaron brown.jpg" crc="411269931" seo="true" ref="catalog"/>
+    <file name="aaron-crop-u3926.jpg" crc="4287990345" ref="catalog"/>
+    <file name="aaron black-crop-u4034.jpg" crc="383445147" ref="catalog"/>
+    <file name="aaron brown60x55.jpg" crc="3987101678" seo="true" ref="catalog"/>
+    <file name="copyright.png" crc="382654819" seo="true" ref="catalog"/>
+    <file name="u4101-4.png" crc="170151982" ref="catalog"/>
+  </folder>
+  <file name="index.html" crc="155102692" seo="true" mt="1640173409167" redirect="true"/>
+  <file name="contact.html" crc="299815783" seo="true" mt="1640173380760" redirect="true"/>
+  <file name="catalog.html" crc="4273945143" seo="true" mt="1640171708185" redirect="true"/>
+</manifest>
